@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.exe
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.deps.json
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.runtimeconfig.json
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.dll
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\netcoreapp3.1\ConsoleApp40.pdb
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.AssemblyInfo.cs
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.dll
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.pdb
+C:\Users\Michael\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\netcoreapp3.1\ConsoleApp40.genruntimeconfig.cache
